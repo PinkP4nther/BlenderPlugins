@@ -4,7 +4,7 @@ bl_info = {
     "name": "Refresh Images",
     "author": "https://github.com/PinkP4nther",
     "blender": (2,80,0),
-    "location": "File > Refresh All Images",
+    "location": "Render > Refresh All Images",
     "description": "Reloads all images into blender."
 }
 
